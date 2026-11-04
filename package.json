@@ -1,12 +1,9 @@
 {
   "name": "akm-laundry-cleaning",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
-  "description": "AKM laundry and cleaning website with optimized high-resolution photography",
+  "description": "AKM premium static website with six full-resolution generated business visuals",
   "scripts": {
     "build": "node build.mjs"
-  },
-  "dependencies": {
-    "sharp": "0.34.4"
   }
 }
