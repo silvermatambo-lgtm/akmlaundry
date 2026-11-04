@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akmlaundry.vercel.app/sitemap.xml
