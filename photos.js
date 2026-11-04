@@ -1,14 +1,14 @@
 /* AKM high-resolution generated visuals; original logo extracted from supplied AKM company PDF. */
 window.AKM_IMAGES={
-  "hero": "/images/hero.webp",
-  "laundry": "/images/laundry.webp",
-  "carpet": "/images/carpet.webp",
-  "supplies": "/images/products.webp",
-  "equipment": "/images/equipment.webp",
-  "room": "/images/room.webp",
-  "linen": "/images/room.webp",
-  "paper": "/images/products.webp",
-  "washer": "/images/room.webp",
-  "fiveL": "/images/products.webp",
+  "hero": "/images/akm-hero-hd.webp",
+  "laundry": "/images/akm-laundry-hd.webp",
+  "carpet": "/images/akm-carpet-hd.webp",
+  "supplies": "/images/akm-products-hd.webp",
+  "equipment": "/images/akm-equipment-hd.webp",
+  "room": "/images/akm-room-hd.webp",
+  "linen": "/images/akm-room-hd.webp",
+  "paper": "/images/akm-products-hd.webp",
+  "washer": "/images/akm-room-hd.webp",
+  "fiveL": "/images/akm-products-hd.webp",
   "logo": "data:image/webp;base64,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"
 };
